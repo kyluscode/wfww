@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.reborncraft.pw	TRUE	/	FALSE	1999999999	__cfduid	d82022149135f1e44f537803e5ad578a91598816411
+reborncraft.pw	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	dc8290693742f1b7695b1b70bf5d4abf41598816418
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.colorlib.com	TRUE	/	FALSE	1999999999	__cfduid	d1324eb0ff25293958f5e3068d23eeda01598816428
+colorlib.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discord.com	TRUE	/	FALSE	1999999999	__cfduid	da5d4fdf049d6107bc5d5119f862c41bf1598816433
+discord.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
